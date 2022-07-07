@@ -4,5 +4,7 @@ public class Example
 	{
 		System.out.println("Hello World");
 		System.out.println("Welcome to DevOps Classes");
+		System.out.println("DevOops Course Curriculum");
+		System.out.printnln("Git and Github \n Docker \n Jenkins\n Kubernetes\n Terraform");
 	}
 }
